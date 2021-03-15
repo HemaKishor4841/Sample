@@ -8,5 +8,10 @@ public class Sample3Test {
 	{
 		System.out.println("ghfhfjhg");
 	}
+	@Test
+	public void CreateProduct(String name,String mob)
+	{
+		System.out.println("ghfhfjhg");
+	}
 
 }
