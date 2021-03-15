@@ -4,9 +4,10 @@ import org.testng.annotations.Test;
 
 public class sample1 {
 	@Test
-	public void test()
+	public void addContact()
 	{
 		System.out.println("hehehehhe");
+		System.out.println("hahahaha");
 	}
 
 }
