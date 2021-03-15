@@ -11,6 +11,13 @@ public class Sample3Test {
 	@Test
 	public void CreateProduct(String name)
 	{
+	
+	}	
+	
+	@Test
+	public void CreateProduct(String name,String mob)
+
+	{
 		System.out.println("ghfhfjhg");
 	}
 
